@@ -1,1 +1,0 @@
-# second-assignment-BackpackMoon-jawad
