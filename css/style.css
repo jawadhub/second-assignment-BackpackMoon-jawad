@@ -1,0 +1,81 @@
+* {
+  color: #363958;
+  font-family: "Roboto", sans-serif;
+}
+
+.moon-color {
+  color: #76c27e;
+}
+
+nav a {
+  font-weight: 600;
+  margin-left: 20px;
+}
+
+#navbarNav li a {
+  color: black;
+}
+.navbar-nav {
+  margin-right: 40px;
+}
+#first h1 {
+  font-size: 60px;
+  font-weight: 700;
+}
+
+/* section two */
+#two .mini-img {
+  height: 70px;
+  width: 76px;
+  padding-right: 20px;
+}
+
+#two .shadow-sm {
+  border-radius: 10px;
+  margin: 25px 0;
+}
+/* End section two */
+
+.bag-color {
+  background-color: #f1f1f1;
+  border-radius: 20px;
+}
+
+.dollar-color {
+  color: #76c27e;
+  font-weight: 900;
+}
+
+/* BUY NOW btn design */
+
+#bags .btn-bg,
+#first .btn-bg,
+#travel .btn-bg {
+  background-color: #2a1e59;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+.cart-img {
+  width: 25px;
+}
+/* end BUY NOW btn design */
+
+#home-icon .fa {
+  font-size: 50px;
+}
+
+#bag h2 {
+  font-size: 40px;
+}
+
+@media (max-width: 580px) {
+  #bag h2 {
+    font-size: 25px;
+    text-align: center;
+    margin: 10px 0;
+    padding: 10px 0;
+  }
+}
