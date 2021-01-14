@@ -67,12 +67,17 @@ nav a {
   font-size: 50px;
 }
 
-#bag h2 {
+#bags h2, #travel h2 {
   font-size: 40px;
 }
 
+/* #travel h2 {
+  font-size: 40px;
+} */
+
+
 @media (max-width: 580px) {
-  #bag h2 {
+  #bags h2,  #travel h2 {
     font-size: 25px;
     text-align: center;
     margin: 10px 0;
